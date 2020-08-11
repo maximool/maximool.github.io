@@ -1,2 +1,0 @@
-
-# maximool.github.io
