@@ -1,0 +1,15 @@
+copyright: cc-by
+remote_branch: master
+site_name: maximool's learning the web
+site_description: if that's possible a little piece of Humanity too
+site_author: maximool
+theme:
+  # https://squidfunk.github.io/mkdocs-material
+  name: 'material'
+  palette:
+    # https://zelda.gamepedia.com/Template:Color (Majora's Mask 3D)
+    primary: 'Blue Grey'
+    accent: 'Teal'
+  font:
+    text: 'Droid Sans'
+    code: 'Monospace'

@@ -1,0 +1,5 @@
+*.swp
+.sonarlint/*
+.vscode/*
+drafts/*
+site/*
