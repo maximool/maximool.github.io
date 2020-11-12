@@ -6,10 +6,13 @@ site_author: maximool
 theme:
   # https://squidfunk.github.io/mkdocs-material
   name: 'material'
-  palette:
-    # https://zelda.gamepedia.com/Template:Color (Majora's Mask 3D)
-    primary: 'Blue Grey'
-    accent: 'Teal'
+  # palette:
+  #   primary: 'Blue Grey'
+  #   accent: 'Teal'
   font:
     text: 'Droid Sans'
     code: 'Monospace'
+extra_css:
+  # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  # https://squidfunk.github.io/mkdocs-material/customization/#additional-css
+  - stylesheets/extra.css
