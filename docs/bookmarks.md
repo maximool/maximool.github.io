@@ -71,8 +71,6 @@
 <li><a href='https://blog.nkb.fr/the-thunbergist-entrepreneur'>https://blog.nkb.fr/the-thunbergist-entrepreneur</a></li>
 <li><a href='https://blog.openshift.com/how-boston-childrens-hospital-augments-doctors-cognition-with-red-hat-openshift'>https://blog.openshift.com/how-boston-childrens-hospital-augments-doctors-cognition-with-red-hat-openshift</a></li>
 <li><a href='https://blog.openshift.com/self-hosted-load-balancer-for-openshift-an-operator-based-approach'>https://blog.openshift.com/self-hosted-load-balancer-for-openshift-an-operator-based-approach</a></li>
-<li><a href='https://blog.spyou.org/wordpress-mu/2018/08/01/le-telephone-sonne-fin-juillet-et-cest-pas-gagne'>https://blog.spyou.org/wordpress-mu/2018/08/01/le-telephone-sonne-fin-juillet-et-cest-pas-gagne</a></li>
-<li><a href='https://blog.themeskingdom.com/how-to-make-your-own-logo-from-scratch'>https://blog.themeskingdom.com/how-to-make-your-own-logo-from-scratch</a></li>
 <li><a href='https://blogs.mediapart.fr/anais-henneguelle/blog/161219/retraites-12-idees-recues-combattre-le-guide-dautodefense'>https://blogs.mediapart.fr/anais-henneguelle/blog/161219/retraites-12-idees-recues-combattre-le-guide-dautodefense</a></li>
 <li><a href='https://blogs.mediapart.fr/brice-i/blog/270519/comment-intimider-un-journaliste-recit-de-83-heures-de-procedure'>https://blogs.mediapart.fr/brice-i/blog/270519/comment-intimider-un-journaliste-recit-de-83-heures-de-procedure</a></li>
 <li><a href='https://blogs.mediapart.fr/edition/police-co/article/140620/racisme-la-volonte-de-savoir-de-m-le-commissaire-le-bars'>https://blogs.mediapart.fr/edition/police-co/article/140620/racisme-la-volonte-de-savoir-de-m-le-commissaire-le-bars</a></li>
