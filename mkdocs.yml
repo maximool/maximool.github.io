@@ -1,8 +1,9 @@
 copyright: cc-by
 remote_branch: master
-site_name: maximool's learning the web
-site_description: if that's possible a little piece of Humanity too
 site_author: maximool
+site_description: if that's possible a little piece of Humanity too
+site_name: maximool's learning the web
+site_url: https://maximool.github.io/
 theme:
   # https://squidfunk.github.io/mkdocs-material
   name: 'material'
